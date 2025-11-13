@@ -50,4 +50,3 @@ Clear visual insights into sales patterns
 🚀 How to Run
 
 pip install -r requirements.txt
-python
